@@ -1,0 +1,31 @@
+body {
+    font-family: Arial;
+    background-color: #d51a26;
+    padding: 20px;
+}
+
+h1 {
+    color: #5a2ec7;
+}
+
+h2 {
+    margin-top: 20px;
+    color: #333;
+}
+
+.project {
+    background: #c9d917;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 8px;
+}
+
+button {
+    padding: 10px 15px;
+    background: #5a2ec7;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    margin-top: 20px;
+}
